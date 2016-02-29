@@ -6,7 +6,7 @@ JSON4DB是一个基于JSON的轻量级数据库，它使用JSON来作为数据�
 无法承载“大数据”的需求，然而对我来说，简单到好用这就足够了！
 
 #代码示例
-
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -101,5 +101,5 @@ namespace JSON4DBSample
         }
     }
 }
-
+```
 
