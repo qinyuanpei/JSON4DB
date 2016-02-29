@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Projects\JSON4DB\JSON4DB\bin\Debug\JSON4DB.dll
+C:\Users\Administrator\Documents\Projects\JSON4DB\JSON4DB\bin\Debug\JSON4DB.pdb
+C:\Users\Administrator\Documents\Projects\JSON4DB\JSON4DB\bin\Debug\LitJson.dll
+C:\Users\Administrator\Documents\Projects\JSON4DB\JSON4DB\obj\Debug\JSON4DB.dll
+C:\Users\Administrator\Documents\Projects\JSON4DB\JSON4DB\obj\Debug\JSON4DB.pdb
+D:\项目管理\CSharp\JSON4DB\JSON4DB\bin\Debug\JSON4DB.dll
+D:\项目管理\CSharp\JSON4DB\JSON4DB\bin\Debug\JSON4DB.pdb
+D:\项目管理\CSharp\JSON4DB\JSON4DB\obj\Debug\JSON4DB.csprojResolveAssemblyReference.cache
+D:\项目管理\CSharp\JSON4DB\JSON4DB\obj\Debug\JSON4DB.dll
+D:\项目管理\CSharp\JSON4DB\JSON4DB\obj\Debug\JSON4DB.pdb

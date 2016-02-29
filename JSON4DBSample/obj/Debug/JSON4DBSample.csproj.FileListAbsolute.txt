@@ -1,0 +1,9 @@
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\bin\Debug\JSON4DBSample.exe.config
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\bin\Debug\JSON4DBSample.exe
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\bin\Debug\JSON4DBSample.pdb
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\bin\Debug\JSON4DB.dll
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\bin\Debug\LitJson.dll
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\bin\Debug\JSON4DB.pdb
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\obj\Debug\JSON4DBSample.csprojResolveAssemblyReference.cache
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\obj\Debug\JSON4DBSample.exe
+D:\项目管理\CSharp\JSON4DB\JSON4DBSample\obj\Debug\JSON4DBSample.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON4DB", "JSON4DB\JSON4DB.csproj", "{DC0A6AFB-F5F8-48AE-9C94-01A4778BDE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON4DBSample", "JSON4DBSample\JSON4DBSample.csproj", "{6F7E33C3-E408-4BB1-99A1-0DDF9E4F51B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0A6AFB-F5F8-48AE-9C94-01A4778BDE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0A6AFB-F5F8-48AE-9C94-01A4778BDE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0A6AFB-F5F8-48AE-9C94-01A4778BDE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0A6AFB-F5F8-48AE-9C94-01A4778BDE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7E33C3-E408-4BB1-99A1-0DDF9E4F51B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7E33C3-E408-4BB1-99A1-0DDF9E4F51B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7E33C3-E408-4BB1-99A1-0DDF9E4F51B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7E33C3-E408-4BB1-99A1-0DDF9E4F51B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
